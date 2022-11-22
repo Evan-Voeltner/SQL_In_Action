@@ -36,4 +36,9 @@ Make sure you have covered enough content to meet the prerequisites before start
 
 > ‼️ Make sure to check out the walk-through video on your course portal to see this setup process happening live!
 
+## Question 11
+
+It's likely what makes a good airbnb is a combination of year round availablility, the number of reviews, and minimum nights. 
+Those with fewer minimum nights make it easier for more people to pass through, leading to more reviews per month, and more reviews overall. Those that are available for most of the year additionally will get more reviews, leading it to rank higher in peoples minds.
+
 
